@@ -1,0 +1,15 @@
+{
+  "name": "ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bhaskar Praveen Naidu",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "watson-developer-cloud": "^4.0.1"
+  }
+}
